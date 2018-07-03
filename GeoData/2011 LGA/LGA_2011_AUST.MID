@@ -1,0 +1,577 @@
+"LGA10050","Albury (C)","1","New South Wales",305.931
+"LGA10110","Armidale Dumaresq (A)","1","New South Wales",4230.83
+"LGA10150","Ashfield (A)","1","New South Wales",8.28119
+"LGA10200","Auburn (C)","1","New South Wales",32.4769
+"LGA10250","Ballina (A)","1","New South Wales",484.716
+"LGA10300","Balranald (A)","1","New South Wales",21693.12
+"LGA10350","Bankstown (C)","1","New South Wales",76.8001
+"LGA10470","Bathurst Regional (A)","1","New South Wales",3816.43
+"LGA10550","Bega Valley (A)","1","New South Wales",6278.96
+"LGA10600","Bellingen (A)","1","New South Wales",1600.38
+"LGA10650","Berrigan (A)","1","New South Wales",2065.93
+"LGA10750","Blacktown (C)","1","New South Wales",240.105
+"LGA10800","Bland (A)","1","New South Wales",8557.71
+"LGA10850","Blayney (A)","1","New South Wales",1524.88
+"LGA10900","Blue Mountains (C)","1","New South Wales",1431.15
+"LGA10950","Bogan (A)","1","New South Wales",14600.48
+"LGA11000","Bombala (A)","1","New South Wales",3946.57
+"LGA11050","Boorowa (A)","1","New South Wales",2577.97
+"LGA11100","Botany Bay (C)","1","New South Wales",21.6868
+"LGA11150","Bourke (A)","1","New South Wales",41604.45
+"LGA11200","Brewarrina (A)","1","New South Wales",19165.18
+"LGA11250","Broken Hill (C)","1","New South Wales",170.294
+"LGA11300","Burwood (A)","1","New South Wales",7.12817
+"LGA11350","Byron (A)","1","New South Wales",565.847
+"LGA11400","Cabonne (A)","1","New South Wales",6023.93
+"LGA11450","Camden (A)","1","New South Wales",201.263
+"LGA11500","Campbelltown (C)","1","New South Wales",312.14
+"LGA11520","Canada Bay (A)","1","New South Wales",19.8934
+"LGA11550","Canterbury (C)","1","New South Wales",33.5639
+"LGA11600","Carrathool (A)","1","New South Wales",18932.5
+"LGA11700","Central Darling (A)","1","New South Wales",53493.81
+"LGA11720","Cessnock (C)","1","New South Wales",1965.41
+"LGA11730","Clarence Valley (A)","1","New South Wales",10428.77
+"LGA11750","Cobar (A)","1","New South Wales",45571.01
+"LGA11800","Coffs Harbour (C)","1","New South Wales",1173.74
+"LGA11860","Conargo (A)","1","New South Wales",8737.94
+"LGA12000","Coolamon (A)","1","New South Wales",2430.93
+"LGA12050","Cooma-Monaro (A)","1","New South Wales",5184.54
+"LGA12150","Coonamble (A)","1","New South Wales",9915.85
+"LGA12200","Cootamundra (A)","1","New South Wales",1523.75
+"LGA12300","Corowa Shire (A)","1","New South Wales",2329.25
+"LGA12350","Cowra (A)","1","New South Wales",2808.67
+"LGA12500","Deniliquin (A)","1","New South Wales",143.188
+"LGA12600","Dubbo (C)","1","New South Wales",3425.68
+"LGA12700","Dungog (A)","1","New South Wales",2250.02
+"LGA12750","Eurobodalla (A)","1","New South Wales",3428.17
+"LGA12850","Fairfield (C)","1","New South Wales",101.522
+"LGA12900","Forbes (A)","1","New South Wales",4718.07
+"LGA12950","Gilgandra (A)","1","New South Wales",4832.01
+"LGA13010","Glen Innes Severn (A)","1","New South Wales",5480.36
+"LGA13050","Gloucester (A)","1","New South Wales",2950.17
+"LGA13100","Gosford (C)","1","New South Wales",939.888
+"LGA13310","Goulburn Mulwaree (A)","1","New South Wales",3220.01
+"LGA13320","Great Lakes (A)","1","New South Wales",3373.33
+"LGA13340","Greater Hume Shire (A)","1","New South Wales",5749.28
+"LGA13380","Greater Taree (C)","1","New South Wales",3729.05
+"LGA13450","Griffith (C)","1","New South Wales",1639.94
+"LGA13500","Gundagai (A)","1","New South Wales",2457.14
+"LGA13550","Gunnedah (A)","1","New South Wales",4987.41
+"LGA13650","Guyra (A)","1","New South Wales",4389.55
+"LGA13660","Gwydir (A)","1","New South Wales",9262.36
+"LGA13700","Harden (A)","1","New South Wales",1868.25
+"LGA13800","Hawkesbury (C)","1","New South Wales",2774.64
+"LGA13850","Hay (A)","1","New South Wales",11326.02
+"LGA13950","Holroyd (C)","1","New South Wales",40.1814
+"LGA14000","Hornsby (A)","1","New South Wales",462.107
+"LGA14100","Hunters Hill (A)","1","New South Wales",5.71706
+"LGA14150","Hurstville (C)","1","New South Wales",22.7241
+"LGA14200","Inverell (A)","1","New South Wales",8594.94
+"LGA14250","Jerilderie (A)","1","New South Wales",3373.05
+"LGA14300","Junee (A)","1","New South Wales",2030
+"LGA14350","Kempsey (A)","1","New South Wales",3375.67
+"LGA14400","Kiama (A)","1","New South Wales",257.743
+"LGA14450","Kogarah (C)","1","New South Wales",15.5479
+"LGA14500","Ku-ring-gai (A)","1","New South Wales",85.3976
+"LGA14550","Kyogle (A)","1","New South Wales",3584.02
+"LGA14600","Lachlan (A)","1","New South Wales",14965.41
+"LGA14650","Lake Macquarie (C)","1","New South Wales",647.987
+"LGA14700","Lane Cove (A)","1","New South Wales",10.4795
+"LGA14750","Leeton (A)","1","New South Wales",1166.95
+"LGA14800","Leichhardt (A)","1","New South Wales",10.5498
+"LGA14850","Lismore (C)","1","New South Wales",1287.79
+"LGA14870","Lithgow (C)","1","New South Wales",4511.85
+"LGA14900","Liverpool (C)","1","New South Wales",305.431
+"LGA14920","Liverpool Plains (A)","1","New South Wales",5082.31
+"LGA14950","Lockhart (A)","1","New South Wales",2895.85
+"LGA15050","Maitland (C)","1","New South Wales",391.517
+"LGA15150","Manly (A)","1","New South Wales",14.3552
+"LGA15200","Marrickville (A)","1","New South Wales",16.5196
+"LGA15270","Mid-Western Regional (A)","1","New South Wales",8752.79
+"LGA15300","Moree Plains (A)","1","New South Wales",17905.95
+"LGA15350","Mosman (A)","1","New South Wales",8.65099
+"LGA15500","Murray (A)","1","New South Wales",4344.45
+"LGA15550","Murrumbidgee (A)","1","New South Wales",3506.68
+"LGA15650","Muswellbrook (A)","1","New South Wales",3404.99
+"LGA15700","Nambucca (A)","1","New South Wales",1491.35
+"LGA15750","Narrabri (A)","1","New South Wales",13014.07
+"LGA15800","Narrandera (A)","1","New South Wales",4116.24
+"LGA15850","Narromine (A)","1","New South Wales",5260.39
+"LGA15900","Newcastle (C)","1","New South Wales",186.773
+"LGA15950","North Sydney (A)","1","New South Wales",10.4726
+"LGA16100","Oberon (A)","1","New South Wales",3626.88
+"LGA16150","Orange (C)","1","New South Wales",283.938
+"LGA16180","Palerang (A)","1","New South Wales",5146.79
+"LGA16200","Parkes (A)","1","New South Wales",5954.92
+"LGA16250","Parramatta (C)","1","New South Wales",61.3565
+"LGA16350","Penrith (C)","1","New South Wales",404.631
+"LGA16370","Pittwater (A)","1","New South Wales",90.3284
+"LGA16380","Port Macquarie-Hastings (A)","1","New South Wales",3683.02
+"LGA16400","Port Stephens (A)","1","New South Wales",858.473
+"LGA16470","Queanbeyan (C)","1","New South Wales",172.361
+"LGA16550","Randwick (C)","1","New South Wales",36.3307
+"LGA16610","Richmond Valley (A)","1","New South Wales",3047.39
+"LGA16650","Rockdale (C)","1","New South Wales",28.2193
+"LGA16700","Ryde (C)","1","New South Wales",40.4729
+"LGA16900","Shellharbour (C)","1","New South Wales",147.36
+"LGA16950","Shoalhaven (C)","1","New South Wales",4530.43
+"LGA17000","Singleton (A)","1","New South Wales",4892.83
+"LGA17050","Snowy River (A)","1","New South Wales",6030.38
+"LGA17100","Strathfield (A)","1","New South Wales",13.8996
+"LGA17150","Sutherland Shire (A)","1","New South Wales",333.579
+"LGA17200","Sydney (C)","1","New South Wales",26.7256
+"LGA17310","Tamworth Regional (A)","1","New South Wales",9884.22
+"LGA17350","Temora (A)","1","New South Wales",2802.02
+"LGA17400","Tenterfield (A)","1","New South Wales",7322.27
+"LGA17420","The Hills Shire (A)","1","New South Wales",400.45
+"LGA17450","Tumbarumba (A)","1","New South Wales",4392.46
+"LGA17500","Tumut Shire (A)","1","New South Wales",4566.63
+"LGA17550","Tweed (A)","1","New South Wales",1307.44
+"LGA17620","Upper Hunter Shire (A)","1","New South Wales",8096.06
+"LGA17640","Upper Lachlan Shire (A)","1","New South Wales",7127.46
+"LGA17650","Uralla (A)","1","New South Wales",3226.46
+"LGA17700","Urana (A)","1","New South Wales",3356
+"LGA17750","Wagga Wagga (C)","1","New South Wales",4825.87
+"LGA17800","Wakool (A)","1","New South Wales",7520.47
+"LGA17850","Walcha (A)","1","New South Wales",6261.29
+"LGA17900","Walgett (A)","1","New South Wales",22308.46
+"LGA17950","Warren (A)","1","New South Wales",10753.82
+"LGA18000","Warringah (A)","1","New South Wales",149.353
+"LGA18020","Warrumbungle Shire (A)","1","New South Wales",12371.08
+"LGA18050","Waverley (A)","1","New South Wales",9.24296
+"LGA18100","Weddin (A)","1","New South Wales",3408.55
+"LGA18150","Wellington (A)","1","New South Wales",4110.09
+"LGA18200","Wentworth (A)","1","New South Wales",26256.73
+"LGA18250","Willoughby (C)","1","New South Wales",22.4293
+"LGA18350","Wingecarribee (A)","1","New South Wales",2688.39
+"LGA18400","Wollondilly (A)","1","New South Wales",2555.93
+"LGA18450","Wollongong (C)","1","New South Wales",683.941
+"LGA18500","Woollahra (A)","1","New South Wales",12.274
+"LGA18550","Wyong (A)","1","New South Wales",739.797
+"LGA18710","Yass Valley (A)","1","New South Wales",3998.05
+"LGA18750","Young (A)","1","New South Wales",2692.68
+"LGA19399","Unincorporated NSW","1","New South Wales",93213.46
+"LGA19499","No usual address (NSW)","1","New South Wales",0
+"LGA20110","Alpine (S)","2","Victoria",4788.23
+"LGA20260","Ararat (RC)","2","Victoria",4211.36
+"LGA20570","Ballarat (C)","2","Victoria",739.029
+"LGA20660","Banyule (C)","2","Victoria",62.5421
+"LGA20740","Bass Coast (S)","2","Victoria",864.761
+"LGA20830","Baw Baw (S)","2","Victoria",4031.28
+"LGA20910","Bayside (C)","2","Victoria",37.2109
+"LGA21010","Benalla (RC)","2","Victoria",2352.64
+"LGA21110","Boroondara (C)","2","Victoria",60.1809
+"LGA21180","Brimbank (C)","2","Victoria",123.399
+"LGA21270","Buloke (S)","2","Victoria",8000.4
+"LGA21370","Campaspe (S)","2","Victoria",4518.86
+"LGA21450","Cardinia (S)","2","Victoria",1281.68
+"LGA21610","Casey (C)","2","Victoria",409.418
+"LGA21670","Central Goldfields (S)","2","Victoria",1532.78
+"LGA21750","Colac-Otway (S)","2","Victoria",3437.48
+"LGA21830","Corangamite (S)","2","Victoria",4407.55
+"LGA21890","Darebin (C)","2","Victoria",53.4711
+"LGA22110","East Gippsland (S)","2","Victoria",20941.49
+"LGA22170","Frankston (C)","2","Victoria",129.599
+"LGA22250","Gannawarra (S)","2","Victoria",3735.34
+"LGA22310","Glen Eira (C)","2","Victoria",38.6914
+"LGA22410","Glenelg (S)","2","Victoria",6218.29
+"LGA22490","Golden Plains (S)","2","Victoria",2703.43
+"LGA22620","Greater Bendigo (C)","2","Victoria",2999.98
+"LGA22670","Greater Dandenong (C)","2","Victoria",129.596
+"LGA22750","Greater Geelong (C)","2","Victoria",1247.89
+"LGA22830","Greater Shepparton (C)","2","Victoria",2421.95
+"LGA22910","Hepburn (S)","2","Victoria",1472.98
+"LGA22980","Hindmarsh (S)","2","Victoria",7524.18
+"LGA23110","Hobsons Bay (C)","2","Victoria",64.2408
+"LGA23190","Horsham (RC)","2","Victoria",4267.06
+"LGA23270","Hume (C)","2","Victoria",503.829
+"LGA23350","Indigo (S)","2","Victoria",2040.07
+"LGA23430","Kingston (C)","2","Victoria",91.3673
+"LGA23670","Knox (C)","2","Victoria",113.826
+"LGA23810","Latrobe (C)","2","Victoria",1425.76
+"LGA23940","Loddon (S)","2","Victoria",6696.44
+"LGA24130","Macedon Ranges (S)","2","Victoria",1748.28
+"LGA24210","Manningham (C)","2","Victoria",113.348
+"LGA24250","Mansfield (S)","2","Victoria",3843.92
+"LGA24330","Maribyrnong (C)","2","Victoria",31.2268
+"LGA24410","Maroondah (C)","2","Victoria",61.4113
+"LGA24600","Melbourne (C)","2","Victoria",37.3557
+"LGA24650","Melton (S)","2","Victoria",527.557
+"LGA24780","Mildura (RC)","2","Victoria",22082.48
+"LGA24850","Mitchell (S)","2","Victoria",2862.43
+"LGA24900","Moira (S)","2","Victoria",4046.55
+"LGA24970","Monash (C)","2","Victoria",81.4973
+"LGA25060","Moonee Valley (C)","2","Victoria",43.1422
+"LGA25150","Moorabool (S)","2","Victoria",2110.62
+"LGA25250","Moreland (C)","2","Victoria",50.9493
+"LGA25340","Mornington Peninsula (S)","2","Victoria",724.067
+"LGA25430","Mount Alexander (S)","2","Victoria",1529.62
+"LGA25490","Moyne (S)","2","Victoria",5481.75
+"LGA25620","Murrindindi (S)","2","Victoria",3879.4
+"LGA25710","Nillumbik (S)","2","Victoria",432.337
+"LGA25810","Northern Grampians (S)","2","Victoria",5728
+"LGA25900","Port Phillip (C)","2","Victoria",20.7048
+"LGA25990","Pyrenees (S)","2","Victoria",3434.57
+"LGA26080","Queenscliffe (B)","2","Victoria",8.61835
+"LGA26170","South Gippsland (S)","2","Victoria",3297.35
+"LGA26260","Southern Grampians (S)","2","Victoria",6655.43
+"LGA26350","Stonnington (C)","2","Victoria",25.6488
+"LGA26430","Strathbogie (S)","2","Victoria",3303.26
+"LGA26490","Surf Coast (S)","2","Victoria",1552.94
+"LGA26610","Swan Hill (RC)","2","Victoria",6115.31
+"LGA26670","Towong (S)","2","Victoria",6674.95
+"LGA26700","Wangaratta (RC)","2","Victoria",3644.84
+"LGA26730","Warrnambool (C)","2","Victoria",120.852
+"LGA26810","Wellington (S)","2","Victoria",10817.37
+"LGA26890","West Wimmera (S)","2","Victoria",9108.39
+"LGA26980","Whitehorse (C)","2","Victoria",64.2789
+"LGA27070","Whittlesea (C)","2","Victoria",489.706
+"LGA27170","Wodonga (RC)","2","Victoria",432.689
+"LGA27260","Wyndham (C)","2","Victoria",542.094
+"LGA27350","Yarra (C)","2","Victoria",19.5414
+"LGA27450","Yarra Ranges (S)","2","Victoria",2465.74
+"LGA27630","Yarriambiack (S)","2","Victoria",7325.8
+"LGA29399","Unincorporated Vic","2","Victoria",281.421
+"LGA29499","No usual address (Vic.)","2","Victoria",0
+"LGA30250","Aurukun (S)","3","Queensland",7347.21
+"LGA30300","Balonne (S)","3","Queensland",31106.18
+"LGA30370","Banana (S)","3","Queensland",28546.31
+"LGA30410","Barcaldine (R)","3","Queensland",53520.67
+"LGA30450","Barcoo (S)","3","Queensland",61825.01
+"LGA30760","Blackall Tambo (R)","3","Queensland",30389.06
+"LGA30900","Boulia (S)","3","Queensland",60955.81
+"LGA31000","Brisbane (C)","3","Queensland",1338.09
+"LGA31750","Bulloo (S)","3","Queensland",73762.8
+"LGA31820","Bundaberg (R)","3","Queensland",6435.64
+"LGA31900","Burdekin (S)","3","Queensland",5043.42
+"LGA31950","Burke (S)","3","Queensland",40039.21
+"LGA32070","Cairns (R)","3","Queensland",4115.11
+"LGA32250","Carpentaria (S)","3","Queensland",64124.9
+"LGA32260","Cassowary Coast (R)","3","Queensland",4684.99
+"LGA32270","Central Highlands (R)","3","Queensland",59834.89
+"LGA32310","Charters Towers (R)","3","Queensland",68373.55
+"LGA32330","Cherbourg (S)","3","Queensland",31.5991
+"LGA32450","Cloncurry (S)","3","Queensland",47983.13
+"LGA32500","Cook (S)","3","Queensland",105781.46
+"LGA32600","Croydon (S)","3","Queensland",29487.1
+"LGA32750","Diamantina (S)","3","Queensland",94666.85
+"LGA32770","Doomadgee (S)","3","Queensland",1835.16
+"LGA33100","Etheridge (S)","3","Queensland",39201.02
+"LGA33200","Flinders (S)","3","Queensland",41192.67
+"LGA33220","Fraser Coast (R)","3","Queensland",7102.5
+"LGA33360","Gladstone (R)","3","Queensland",10465.79
+"LGA33430","Gold Coast (C)","3","Queensland",1331.68
+"LGA33610","Goondiwindi (R)","3","Queensland",19255.49
+"LGA33620","Gympie (R)","3","Queensland",6884.54
+"LGA33800","Hinchinbrook (S)","3","Queensland",2801.35
+"LGA33830","Hope Vale (S)","3","Queensland",1104.75
+"LGA33960","Ipswich (C)","3","Queensland",1088.49
+"LGA33980","Isaac (R)","3","Queensland",58719.84
+"LGA34420","Kowanyama (S)","3","Queensland",2543.17
+"LGA34570","Lockhart River (S)","3","Queensland",3578.06
+"LGA34580","Lockyer Valley (R)","3","Queensland",2268.74
+"LGA34590","Logan (C)","3","Queensland",958.097
+"LGA34710","Longreach (R)","3","Queensland",40571.71
+"LGA34770","Mackay (R)","3","Queensland",7601.2
+"LGA34800","McKinlay (S)","3","Queensland",40733.71
+"LGA34830","Mapoon (S)","3","Queensland",547.986
+"LGA34860","Maranoa (R)","3","Queensland",58711.36
+"LGA35010","Moreton Bay (R)","3","Queensland",2033.3
+"LGA35250","Mornington (S)","3","Queensland",1244.21
+"LGA35300","Mount Isa (C)","3","Queensland",43188.04
+"LGA35600","Murweh (S)","3","Queensland",40698.49
+"LGA35670","Napranum (S)","3","Queensland",1997.91
+"LGA35760","North Burnett (R)","3","Queensland",19666.77
+"LGA35780","Northern Peninsula Area (R)","3","Queensland",1056.91
+"LGA35790","Palm Island (S)","3","Queensland",70.6336
+"LGA35800","Paroo (S)","3","Queensland",47616.41
+"LGA36070","Pormpuraaw (S)","3","Queensland",4428.84
+"LGA36150","Quilpie (S)","3","Queensland",67423.31
+"LGA36250","Redland (C)","3","Queensland",536.246
+"LGA36300","Richmond (S)","3","Queensland",26580.22
+"LGA36360","Rockhampton (R)","3","Queensland",18311.74
+"LGA36510","Scenic Rim (R)","3","Queensland",4248.07
+"LGA36580","Somerset (R)","3","Queensland",5373.28
+"LGA36630","South Burnett (R)","3","Queensland",8381.7
+"LGA36660","Southern Downs (R)","3","Queensland",7111.72
+"LGA36710","Sunshine Coast (R)","3","Queensland",3120.71
+"LGA36810","Tablelands (R)","3","Queensland",64793.81
+"LGA36910","Toowoomba (R)","3","Queensland",12957.73
+"LGA36950","Torres (S)","3","Queensland",882.71
+"LGA36960","Torres Strait Island (R)","3","Queensland",489.242
+"LGA37010","Townsville (C)","3","Queensland",3727.38
+"LGA37300","Weipa (T)","3","Queensland",10.8221
+"LGA37310","Western Downs (R)","3","Queensland",37938.49
+"LGA37340","Whitsunday (R)","3","Queensland",23804.38
+"LGA37400","Winton (S)","3","Queensland",53814.39
+"LGA37550","Woorabinda (S)","3","Queensland",390.279
+"LGA37570","Wujal Wujal (S)","3","Queensland",11.1811
+"LGA37600","Yarrabah (S)","3","Queensland",158.843
+"LGA39399","Unincorporated Qld","3","Queensland",0
+"LGA39499","No usual address (Qld)","3","Queensland",0
+"LGA40070","Adelaide (C)","4","South Australia",15.5724
+"LGA40120","Adelaide Hills (DC)","4","South Australia",794.487
+"LGA40220","Alexandrina (DC)","4","South Australia",1827.26
+"LGA40250","Anangu Pitjantjatjara (AC)","4","South Australia",102320.48
+"LGA40310","Barossa (DC)","4","South Australia",893.549
+"LGA40430","Barunga West (DC)","4","South Australia",1590.39
+"LGA40520","Berri and Barmera (DC)","4","South Australia",516.813
+"LGA40700","Burnside (C)","4","South Australia",27.5184
+"LGA40910","Campbelltown (C)","4","South Australia",24.3496
+"LGA41010","Ceduna (DC)","4","South Australia",5420.14
+"LGA41060","Charles Sturt (C)","4","South Australia",54.7892
+"LGA41140","Clare and Gilbert Valleys (DC)","4","South Australia",1892.45
+"LGA41190","Cleve (DC)","4","South Australia",4505.53
+"LGA41330","Coober Pedy (DC)","4","South Australia",77.6799
+"LGA41560","Copper Coast (DC)","4","South Australia",772.915
+"LGA41750","Elliston (DC)","4","South Australia",6738.54
+"LGA41830","Flinders Ranges (DC)","4","South Australia",4126.4
+"LGA41960","Franklin Harbour (DC)","4","South Australia",3268.88
+"LGA42030","Gawler (T)","4","South Australia",41.0896
+"LGA42110","Goyder (DC)","4","South Australia",6716.02
+"LGA42250","Grant (DC)","4","South Australia",1898
+"LGA42600","Holdfast Bay (C)","4","South Australia",13.7522
+"LGA42750","Kangaroo Island (DC)","4","South Australia",4400.73
+"LGA43080","Karoonda East Murray (DC)","4","South Australia",4415.8
+"LGA43220","Kimba (DC)","4","South Australia",3983.95
+"LGA43360","Kingston (DC)","4","South Australia",3339.79
+"LGA43650","Light (RegC)","4","South Australia",1276.84
+"LGA43710","Lower Eyre Peninsula (DC)","4","South Australia",4721.19
+"LGA43790","Loxton Waikerie (DC)","4","South Australia",7999.29
+"LGA43920","Mallala (DC)","4","South Australia",932.419
+"LGA44000","Maralinga Tjarutja (AC)","4","South Australia",102737.81
+"LGA44060","Marion (C)","4","South Australia",55.638
+"LGA44210","Mid Murray (DC)","4","South Australia",6271.38
+"LGA44340","Mitcham (C)","4","South Australia",75.5475
+"LGA44550","Mount Barker (DC)","4","South Australia",594.649
+"LGA44620","Mount Gambier (C)","4","South Australia",33.8943
+"LGA44830","Mount Remarkable (DC)","4","South Australia",3422.77
+"LGA45040","Murray Bridge (RC)","4","South Australia",1831.76
+"LGA45090","Naracoorte and Lucindale (DC)","4","South Australia",4520.13
+"LGA45120","Northern Areas (DC)","4","South Australia",2986.18
+"LGA45290","Norwood Payneham St Peters (C)","4","South Australia",15.1032
+"LGA45340","Onkaparinga (C)","4","South Australia",518.123
+"LGA45400","Orroroo/Carrieton (DC)","4","South Australia",3321.82
+"LGA45540","Peterborough (DC)","4","South Australia",3020.02
+"LGA45680","Playford (C)","4","South Australia",344.932
+"LGA45890","Port Adelaide Enfield (C)","4","South Australia",91.7498
+"LGA46090","Port Augusta (C)","4","South Australia",1152.07
+"LGA46300","Port Lincoln (C)","4","South Australia",30.3673
+"LGA46450","Port Pirie City and Dists (M)","4","South Australia",1760.71
+"LGA46510","Prospect (C)","4","South Australia",7.79182
+"LGA46670","Renmark Paringa (DC)","4","South Australia",915.865
+"LGA46860","Robe (DC)","4","South Australia",1091.61
+"LGA46970","Roxby Downs (M)","4","South Australia",109.907
+"LGA47140","Salisbury (C)","4","South Australia",158.043
+"LGA47290","Southern Mallee (DC)","4","South Australia",5702.21
+"LGA47490","Streaky Bay (DC)","4","South Australia",6247.03
+"LGA47630","Tatiara (DC)","4","South Australia",6527.2
+"LGA47700","Tea Tree Gully (C)","4","South Australia",95.2081
+"LGA47800","The Coorong (DC)","4","South Australia",8832.45
+"LGA47910","Tumby Bay (DC)","4","South Australia",2669.06
+"LGA47980","Unley (C)","4","South Australia",14.2708
+"LGA48050","Victor Harbor (C)","4","South Australia",384.621
+"LGA48130","Wakefield (DC)","4","South Australia",3468.49
+"LGA48260","Walkerville (M)","4","South Australia",3.52984
+"LGA48340","Wattle Range (DC)","4","South Australia",3926.34
+"LGA48410","West Torrens (C)","4","South Australia",37.0404
+"LGA48540","Whyalla (C)","4","South Australia",1032.35
+"LGA48640","Wudinna (DC)","4","South Australia",5393.92
+"LGA48750","Yankalilla (DC)","4","South Australia",751.258
+"LGA48830","Yorke Peninsula (DC)","4","South Australia",5899.61
+"LGA49399","Unincorporated SA","4","South Australia",623520.28
+"LGA49499","No usual address (SA)","4","South Australia",0
+"LGA50080","Albany (C)","5","Western Australia",4309.94
+"LGA50210","Armadale (C)","5","Western Australia",559.916
+"LGA50250","Ashburton (S)","5","Western Australia",100959.26
+"LGA50280","Augusta-Margaret River (S)","5","Western Australia",2122.42
+"LGA50350","Bassendean (T)","5","Western Australia",10.3445
+"LGA50420","Bayswater (C)","5","Western Australia",32.7693
+"LGA50490","Belmont (C)","5","Western Australia",39.6846
+"LGA50560","Beverley (S)","5","Western Australia",2370.52
+"LGA50630","Boddington (S)","5","Western Australia",1899.37
+"LGA50770","Boyup Brook (S)","5","Western Australia",2826.5
+"LGA50840","Bridgetown-Greenbushes (S)","5","Western Australia",1339.38
+"LGA50910","Brookton (S)","5","Western Australia",1601.15
+"LGA50980","Broome (S)","5","Western Australia",54631.8
+"LGA51080","Broomehill-Tambellup (S)","5","Western Australia",2609.13
+"LGA51120","Bruce Rock (S)","5","Western Australia",2724.71
+"LGA51190","Bunbury (C)","5","Western Australia",65.2345
+"LGA51260","Busselton (S)","5","Western Australia",1454.01
+"LGA51310","Cambridge (T)","5","Western Australia",21.9936
+"LGA51330","Canning (C)","5","Western Australia",64.8997
+"LGA51400","Capel (S)","5","Western Australia",557.812
+"LGA51470","Carnamah (S)","5","Western Australia",2872.95
+"LGA51540","Carnarvon (S)","5","Western Australia",46562.24
+"LGA51610","Chapman Valley (S)","5","Western Australia",3982.58
+"LGA51680","Chittering (S)","5","Western Australia",1219.9
+"LGA51750","Claremont (T)","5","Western Australia",4.95565
+"LGA51820","Cockburn (C)","5","Western Australia",167.938
+"LGA51890","Collie (S)","5","Western Australia",1710.02
+"LGA51960","Coolgardie (S)","5","Western Australia",30353.9
+"LGA52030","Coorow (S)","5","Western Australia",4188.83
+"LGA52100","Corrigin (S)","5","Western Australia",2680.6
+"LGA52170","Cottesloe (T)","5","Western Australia",3.85616
+"LGA52240","Cranbrook (S)","5","Western Australia",3277.47
+"LGA52310","Cuballing (S)","5","Western Australia",1194.95
+"LGA52380","Cue (S)","5","Western Australia",13584.88
+"LGA52450","Cunderdin (S)","5","Western Australia",1862.45
+"LGA52520","Dalwallinu (S)","5","Western Australia",7227.22
+"LGA52590","Dandaragan (S)","5","Western Australia",6711.49
+"LGA52660","Dardanup (S)","5","Western Australia",525.918
+"LGA52730","Denmark (S)","5","Western Australia",1859.9
+"LGA52800","Derby-West Kimberley (S)","5","Western Australia",119841.85
+"LGA52870","Donnybrook-Balingup (S)","5","Western Australia",1559.97
+"LGA52940","Dowerin (S)","5","Western Australia",1863.08
+"LGA53010","Dumbleyung (S)","5","Western Australia",2541.27
+"LGA53080","Dundas (S)","5","Western Australia",92587.22
+"LGA53150","East Fremantle (T)","5","Western Australia",3.13857
+"LGA53220","East Pilbara (S)","5","Western Australia",371244.04
+"LGA53290","Esperance (S)","5","Western Australia",45038.79
+"LGA53360","Exmouth (S)","5","Western Australia",6488.07
+"LGA53430","Fremantle (C)","5","Western Australia",19.0101
+"LGA53520","Geraldton-Greenough (C)","5","Western Australia",1778.72
+"LGA53570","Gingin (S)","5","Western Australia",3208.44
+"LGA53640","Gnowangerup (S)","5","Western Australia",4265.57
+"LGA53710","Goomalling (S)","5","Western Australia",1835.43
+"LGA53780","Gosnells (C)","5","Western Australia",127.199
+"LGA53920","Halls Creek (S)","5","Western Australia",133061.38
+"LGA53990","Harvey (S)","5","Western Australia",1727.88
+"LGA54060","Irwin (S)","5","Western Australia",2371.96
+"LGA54130","Jerramungup (S)","5","Western Australia",6507.48
+"LGA54170","Joondalup (C)","5","Western Australia",98.9267
+"LGA54200","Kalamunda (S)","5","Western Australia",324.2
+"LGA54280","Kalgoorlie/Boulder (C)","5","Western Australia",95151.53
+"LGA54340","Katanning (S)","5","Western Australia",1518.29
+"LGA54410","Kellerberrin (S)","5","Western Australia",1915.58
+"LGA54480","Kent (S)","5","Western Australia",5630.11
+"LGA54550","Kojonup (S)","5","Western Australia",2931.14
+"LGA54620","Kondinin (S)","5","Western Australia",7422.09
+"LGA54690","Koorda (S)","5","Western Australia",2832.35
+"LGA54760","Kulin (S)","5","Western Australia",4716.86
+"LGA54830","Kwinana (T)","5","Western Australia",120.012
+"LGA54900","Lake Grace (S)","5","Western Australia",11885.83
+"LGA54970","Laverton (S)","5","Western Australia",179892.18
+"LGA55040","Leonora (S)","5","Western Australia",31893.21
+"LGA55110","Mandurah (C)","5","Western Australia",174.225
+"LGA55180","Manjimup (S)","5","Western Australia",7025.75
+"LGA55250","Meekatharra (S)","5","Western Australia",100120.81
+"LGA55320","Melville (C)","5","Western Australia",52.8177
+"LGA55390","Menzies (S)","5","Western Australia",124577.15
+"LGA55460","Merredin (S)","5","Western Australia",3294.39
+"LGA55530","Mingenew (S)","5","Western Australia",1934.86
+"LGA55600","Moora (S)","5","Western Australia",3762.98
+"LGA55670","Morawa (S)","5","Western Australia",3512.55
+"LGA55740","Mosman Park (T)","5","Western Australia",4.34739
+"LGA55810","Mount Magnet (S)","5","Western Australia",13872.89
+"LGA55880","Mount Marshall (S)","5","Western Australia",10185.92
+"LGA55950","Mukinbudin (S)","5","Western Australia",3434.99
+"LGA56020","Mullewa (S)","5","Western Australia",8110.4
+"LGA56090","Mundaring (S)","5","Western Australia",643.252
+"LGA56160","Murchison (S)","5","Western Australia",45030.17
+"LGA56230","Murray (S)","5","Western Australia",1710.05
+"LGA56300","Nannup (S)","5","Western Australia",3053.71
+"LGA56370","Narembeen (S)","5","Western Australia",3833.25
+"LGA56450","Narrogin (S)","5","Western Australia",1618.35
+"LGA56520","Narrogin (T)","5","Western Australia",13.1274
+"LGA56580","Nedlands (C)","5","Western Australia",19.9472
+"LGA56620","Ngaanyatjarraku (S)","5","Western Australia",160378.07
+"LGA56730","Northam (S)","5","Western Australia",1431.22
+"LGA56790","Northampton (S)","5","Western Australia",12617.68
+"LGA56860","Nungarin (S)","5","Western Australia",1163.01
+"LGA56930","Peppermint Grove (S)","5","Western Australia",1.06759
+"LGA57000","Perenjori (S)","5","Western Australia",8300.45
+"LGA57080","Perth (C)","5","Western Australia",12.0212
+"LGA57140","Pingelly (S)","5","Western Australia",1294.05
+"LGA57210","Plantagenet (S)","5","Western Australia",4876.47
+"LGA57280","Port Hedland (T)","5","Western Australia",18431.11
+"LGA57350","Quairading (S)","5","Western Australia",2016.93
+"LGA57420","Ravensthorpe (S)","5","Western Australia",9829
+"LGA57490","Rockingham (C)","5","Western Australia",256.891
+"LGA57560","Roebourne (S)","5","Western Australia",15235.8
+"LGA57630","Sandstone (S)","5","Western Australia",32666.49
+"LGA57700","Serpentine-Jarrahdale (S)","5","Western Australia",904.073
+"LGA57770","Shark Bay (S)","5","Western Australia",24140.16
+"LGA57840","South Perth (C)","5","Western Australia",19.8117
+"LGA57910","Stirling (C)","5","Western Australia",104.726
+"LGA57980","Subiaco (C)","5","Western Australia",6.97605
+"LGA58050","Swan (C)","5","Western Australia",1043.22
+"LGA58190","Tammin (S)","5","Western Australia",1101.69
+"LGA58260","Three Springs (S)","5","Western Australia",2652.91
+"LGA58330","Toodyay (S)","5","Western Australia",1691.65
+"LGA58400","Trayning (S)","5","Western Australia",1650.94
+"LGA58470","Upper Gascoyne (S)","5","Western Australia",57883.43
+"LGA58510","Victoria Park (T)","5","Western Australia",17.9313
+"LGA58540","Victoria Plains (S)","5","Western Australia",2550.94
+"LGA58570","Vincent (T)","5","Western Australia",11.3768
+"LGA58610","Wagin (S)","5","Western Australia",1945.73
+"LGA58680","Wandering (S)","5","Western Australia",1899.62
+"LGA58760","Wanneroo (C)","5","Western Australia",685.061
+"LGA58820","Waroona (S)","5","Western Australia",831.847
+"LGA58890","West Arthur (S)","5","Western Australia",2832.65
+"LGA59030","Westonia (S)","5","Western Australia",3314.01
+"LGA59100","Wickepin (S)","5","Western Australia",2039.84
+"LGA59170","Williams (S)","5","Western Australia",2304.48
+"LGA59250","Wiluna (S)","5","Western Australia",181294.37
+"LGA59310","Wongan-Ballidu (S)","5","Western Australia",3365.07
+"LGA59320","Woodanilling (S)","5","Western Australia",1128.35
+"LGA59330","Wyalkatchem (S)","5","Western Australia",1594.35
+"LGA59340","Wyndham-East Kimberley (S)","5","Western Australia",112022.82
+"LGA59350","Yalgoo (S)","5","Western Australia",27936.35
+"LGA59360","Yilgarn (S)","5","Western Australia",30376.34
+"LGA59370","York (S)","5","Western Australia",2131.59
+"LGA59399","Unincorporated WA","5","Western Australia",0
+"LGA59499","No usual address (WA)","5","Western Australia",0
+"LGA60210","Break O'Day (M)","6","Tasmania",3525.77
+"LGA60410","Brighton (M)","6","Tasmania",171.262
+"LGA60610","Burnie (C)","6","Tasmania",610.953
+"LGA60810","Central Coast (M)","6","Tasmania",933.088
+"LGA61010","Central Highlands (M)","6","Tasmania",7982.42
+"LGA61210","Circular Head (M)","6","Tasmania",4897.65
+"LGA61410","Clarence (C)","6","Tasmania",377.955
+"LGA61510","Derwent Valley (M)","6","Tasmania",4108.11
+"LGA61610","Devonport (C)","6","Tasmania",111.258
+"LGA61810","Dorset (M)","6","Tasmania",3227.6
+"LGA62010","Flinders (M)","6","Tasmania",1996.62
+"LGA62210","George Town (M)","6","Tasmania",653.438
+"LGA62410","Glamorgan/Spring Bay (M)","6","Tasmania",2591.35
+"LGA62610","Glenorchy (C)","6","Tasmania",121.149
+"LGA62810","Hobart (C)","6","Tasmania",77.9108
+"LGA63010","Huon Valley (M)","6","Tasmania",5507.36
+"LGA63210","Kentish (M)","6","Tasmania",1155.97
+"LGA63410","King Island (M)","6","Tasmania",1095.76
+"LGA63610","Kingborough (M)","6","Tasmania",720.103
+"LGA63810","Latrobe (M)","6","Tasmania",600.464
+"LGA64010","Launceston (C)","6","Tasmania",1413.62
+"LGA64210","Meander Valley (M)","6","Tasmania",3330.34
+"LGA64610","Northern Midlands (M)","6","Tasmania",5136.5
+"LGA64810","Sorell (M)","6","Tasmania",583.676
+"LGA65010","Southern Midlands (M)","6","Tasmania",2615.42
+"LGA65210","Tasman (M)","6","Tasmania",660.496
+"LGA65410","Waratah/Wynyard (M)","6","Tasmania",3531.04
+"LGA65610","West Coast (M)","6","Tasmania",9589.78
+"LGA65810","West Tamar (M)","6","Tasmania",691.145
+"LGA69399","Unincorporated Tas","6","Tasmania",0
+"LGA69499","No usual address (Tas.)","6","Tasmania",0
+"LGA70200","Alice Springs (T)","7","Northern Territory",327.51
+"LGA70420","Barkly (S)","7","Northern Territory",322788.84
+"LGA70540","Belyuen (S)","7","Northern Territory",41.4055
+"LGA70620","Central Desert (S)","7","Northern Territory",281311.38
+"LGA70700","Coomalie (S)","7","Northern Territory",1507.85
+"LGA71000","Darwin (C)","7","Northern Territory",111.511
+"LGA71300","East Arnhem (S)","7","Northern Territory",33295.6
+"LGA72200","Katherine (T)","7","Northern Territory",7416.64
+"LGA72300","Litchfield (M)","7","Northern Territory",2903.19
+"LGA72330","MacDonnell (S)","7","Northern Territory",268336.61
+"LGA72800","Palmerston (C)","7","Northern Territory",52.6544
+"LGA73600","Roper Gulf (S)","7","Northern Territory",185286.63
+"LGA74050","Tiwi Islands (S)","7","Northern Territory",7462.57
+"LGA74500","Victoria-Daly (S)","7","Northern Territory",167323.55
+"LGA74560","Wagait (S)","7","Northern Territory",5.63477
+"LGA74660","West Arnhem (S)","7","Northern Territory",49692.48
+"LGA79399","Unincorporated NT","7","Northern Territory",20334.66
+"LGA79499","No usual address (NT)","7","Northern Territory",0
+"LGA89399","Unincorporated ACT","8","Australian Capital Territory",2351.74
+"LGA89499","No usual address (ACT)","8","Australian Capital Territory",0
+"LGA99499","No usual address (OT)","9","Other Territories",0
+"LGA99399","Unincorp. Other Territories","9","Other Territories",217.651
